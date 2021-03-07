@@ -12,11 +12,9 @@ gem 'jquery-rails',             '4.1.1'
 gem 'turbolinks',               '5.0.0'
 gem 'jbuilder',                 '2.9.0'
 gem 'bootsnap'
-gem 'bootstrap-sass',           '3.3.6'
 gem 'bcrypt-ruby',              '3.1.2'
 gem 'faker',                    '1.6.3'
 gem 'will_paginate',            '3.1.7'
-gem 'bootstrap-will_paginate',  '0.0.10'
 
 
 group :development, :test do
